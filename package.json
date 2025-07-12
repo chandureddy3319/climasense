@@ -1,0 +1,11 @@
+{
+  "name": "climasense",
+  "version": "1.0.0",
+  "description": "A professional Python application that fetches real-time weather data using the OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
